@@ -1,5 +1,4 @@
 #include <iostream>
-#include <Windows.h>
 float Capital;
 float time1 = 60;
 float timez;
