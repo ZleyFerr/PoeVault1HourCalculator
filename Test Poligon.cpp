@@ -1,12 +1,8 @@
 #include <iostream>
-float Capital;
-float time1 = 60;
-float timez;
-float farmZ;
-int divinePrice = 0;
-
 int main()
 {
+	float Capital, time1 = 60, timez, farmZ;
+	int divinePrice = 0;
 	setlocale(LC_ALL, "Ru");
 	for (int i = 0; i < 100; i++)
 	{
