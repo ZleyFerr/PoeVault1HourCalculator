@@ -1,9 +1,11 @@
 #include <iostream>
+
 int main()
 {
+	setlocale(LC_ALL, "Ru");
 	float Capital, time1 = 60, timez, farmZ;
 	int divinePrice = 0;
-	setlocale(LC_ALL, "Ru");
+
 	for (int i = 0; i < 100; i++)
 	{
 		std::cout << "Введите количество хаосов затраченное на старт : ";
